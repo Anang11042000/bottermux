@@ -34,7 +34,17 @@ ini semua gratis, jangan pelit ⭐️ ya :D
 
 This project require Termux.
 
-## ALAT
+## BAHAN & ALAT <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="29px">
+Siapin alat dan bahan.
+```bash
+> niat
+> 2 handphone (1 buat jalanin sc, 1 buat scan kode qr kak)
+> jaringan internet kenceng,kuota+
+> penyimpanan yang memadai
+> aplikasi whatsapp
+> aplikasi termux
+> kopi+rokok ;v
+```
 
 Download aplikasi termux disini :👇👇
 
@@ -55,3 +65,5 @@ Beberapa fitur berjalan menggunakan apikey, jika apikey tidak tersedia maka bebe
 
 **Masuk grup tes bot di atas untuk mendapatkan apikey gratis 👇👇**
 * [GROUP FREE APIKEY](https://chat.whatsapp.com/GeaXMbJWSOd3UsCUqFa4BT)
+
+## Penginstalan
