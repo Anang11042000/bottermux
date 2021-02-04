@@ -21,7 +21,7 @@ BOT WHATSAPP TERMUX ONLY BY WEM
 <details>
  <summary>🥟 Help me!</summary>
  
- [Trakteer](https://trakteer.id/arugabot)
+ [SAWERIA](https://saweria.co/wempykaguyabot)
  
 </details>
 
