@@ -37,13 +37,13 @@ This project require Termux.
 ## Materials & Tools <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="29px">
 Prepare tools and materials.
 ```bash
-> niat
-> 2 handphone (1 buat jalanin sc, 1 buat scan kode qr kak)
-> jaringan internet kenceng,kuota+
-> penyimpanan yang memadai
-> aplikasi whatsapp
-> aplikasi termux
-> kopi+rokok ;v
+> intention
+> 2 cellphones (1 for running SC, 1 for scanning the QR code sis)
+> fast internet network, quota +
+> adequate storage
+> whatsapp application
+> termux application
+> coffee + cigarettes ;v
 ```
 
 Download application termux now :👇👇
