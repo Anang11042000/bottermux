@@ -35,7 +35,7 @@ it's all free, don't be stingy ⭐️ yes: D
 This project require Termux.
 
 ## Materials & Tools <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="29px">
-Siapin alat dan bahan.
+Prepare tools and materials.
 ```bash
 > niat
 > 2 handphone (1 buat jalanin sc, 1 buat scan kode qr kak)
@@ -67,7 +67,7 @@ Some features run using apikey, if apikey is not available then some features ca
 * [GROUP FREE APIKEY](https://chat.whatsapp.com/GeaXMbJWSOd3UsCUqFa4BT)
 
 ## Installation  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
-Script ini di modifikasi sama saya sendiri WEM
+This script is modified with my own WEM
 ```bash
 > kalo lu belum punya apk termux, download di playstore link nya ada diatas tadi
 > masuk ke apk termux lalu ketik dibawah ini!
