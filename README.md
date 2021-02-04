@@ -66,4 +66,22 @@ Beberapa fitur berjalan menggunakan apikey, jika apikey tidak tersedia maka bebe
 **Masuk grup tes bot di atas untuk mendapatkan apikey gratis 👇👇**
 * [GROUP FREE APIKEY](https://chat.whatsapp.com/GeaXMbJWSOd3UsCUqFa4BT)
 
-## Penginstalan
+## Penginstalan  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
+Script ini di modifikasi sama saya sendiri WEM
+```bash
+> kalo lu belum punya apk termux, download di playstore link nya ada diatas tadi
+> masuk ke apk termux lalu ketik dibawah ini!
+> $ termux-setup-storage
+> $ pkg update -y
+> $ pkg upgrade -y
+> $ pkg install nano
+> $ pkg install python -y
+> $ pkg install python2 -y
+> $ pkg install git -y
+> $ git clone https://github.com/wempy24/bottermux
+> $ cd bottermux
+> $ python install.py
+> $ bash install.sh
+> $ node index.js
+> Tinggal scan kode qr nya tot...
+```
