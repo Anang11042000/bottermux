@@ -89,3 +89,4 @@ Script ini di modifikasi sama saya sendiri WEM
 ## SOSIAL MEDIA ADMIN
 
 [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="24">](https://www.instagram.com/wem_.24/)
+[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Whatsapp" width="29px">
