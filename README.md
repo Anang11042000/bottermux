@@ -52,7 +52,7 @@ Download application termux now :👇👇
 
 Download WA MOD now :👇👇
 
-[wempy24 WHATSAPP MOD](https://mediafire.com/file/jafttiixkr9g2vl/Fouad.Whats8.70_By-FouadMODS.apk/file)
+[Wempy24 WHATSAPP MOD](https://mediafire.com/file/jafttiixkr9g2vl/Fouad.Whats8.70_By-FouadMODS.apk/file)
 
 ## GET APIKEY HERE
 
