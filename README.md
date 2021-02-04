@@ -21,3 +21,7 @@ BOT WHATSAPP TERMUX ONLY BY WEM
  [SAWERIA](https://saweria.co/wempykaguyabot)
  
  </details>
+
+ini semua gratis, jangan pelit ⭐️ ya :D
+<p align="center"><a href="https/wa.me/6285746897368" target="_blank">Chat me on whatsapp</a>.</p>
+</div>
