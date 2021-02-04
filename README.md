@@ -30,11 +30,11 @@ ini semua gratis, jangan pelit ⭐️ ya :D
 <p align="center"><a href="https://wa.me/6285746897368" target="_blank">Chat me on Whatsapp</a>.</p>
 </div>
 
-## Getting Started
+## GETTING STARTED
 
 This project require Termux.
 
-## Alat
+## ALAT
 
 Download aplikasi termux disini :👇👇
 
@@ -43,3 +43,11 @@ Download aplikasi termux disini :👇👇
 Download WA MOD disini :👇👇
 
 [wempy24 WHATSAPP MOD](https://mediafire.com/file/jafttiixkr9g2vl/Fouad.Whats8.70_By-FouadMODS.apk/file)
+
+## DAPATKAN APIKEY DISINI
+
+Beberapa fitur berjalan menggunakan apikey, jika apikey tidak tersedia maka beberapa fitur tidak bisa di pakai.
+
+* [Apibarbar](https://mhankbarbars.herokuapp.com/)
+* [Apivhtear](https://vhtear.com/)
+* [Apitobz](https://tobz-api.herokuapp.com/)
