@@ -54,7 +54,7 @@ Download WA MOD now :👇👇
 
 [wempy24 WHATSAPP MOD](https://mediafire.com/file/jafttiixkr9g2vl/Fouad.Whats8.70_By-FouadMODS.apk/file)
 
-## DAPATKAN APIKEY DISINI
+## GET APIKEY HERE
 
 Beberapa fitur berjalan menggunakan apikey, jika apikey tidak tersedia maka beberapa fitur tidak bisa di pakai.
 
@@ -66,7 +66,7 @@ Beberapa fitur berjalan menggunakan apikey, jika apikey tidak tersedia maka bebe
 **Masuk grup tes bot di atas untuk mendapatkan apikey gratis 👇👇**
 * [GROUP FREE APIKEY](https://chat.whatsapp.com/GeaXMbJWSOd3UsCUqFa4BT)
 
-## Penginstalan  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
+## Installation  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
 Script ini di modifikasi sama saya sendiri WEM
 ```bash
 > kalo lu belum punya apk termux, download di playstore link nya ada diatas tadi
