@@ -36,6 +36,6 @@ This project require Termux v0.101.
 
 ## Alat
 
-Download aplikasi termux disini :
+Download aplikasi termux disini :👇👇
 
 [Termux](https://play.google.com/store/apps/details?id=com.termux) 
