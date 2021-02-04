@@ -14,5 +14,5 @@ BOT WHATSAPP TERMUX ONLY BY WEM
 <a href="https://github.com/wempy24/bottermux/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/wempy24/bottermuxcolor=red&style=flat-square"></a>
 <a href="https://github.com/wempy24/bottermux/network/members"><img title="Forks" src="https://img.shields.io/github/forks/wempy24/bottermux?color=red&style=flat-square"></a>
 <a href="https://github.com/wempy24/bottermux/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/wempy24/bottermux?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRamlan666%2Fsadbotv3&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2wempy24%2Fbottermux&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 </p>
