@@ -33,3 +33,9 @@ ini semua gratis, jangan pelit ⭐️ ya :D
 ## Getting Started
 
 This project require Termux v0.101.
+
+## Alat
+
+Download aplikasi termux disini :
+
+[DOWNLOAD Termux](https://play.google.com/store/apps/details?id=com.termux) 
