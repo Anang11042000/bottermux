@@ -51,3 +51,4 @@ Beberapa fitur berjalan menggunakan apikey, jika apikey tidak tersedia maka bebe
 * [Apibarbar](https://mhankbarbars.herokuapp.com/)
 * [Apivhtear](https://vhtear.com/)
 * [Apitobz](https://tobz-api.herokuapp.com/)
+* [Zeks](https://api.zeks.xyz/)
