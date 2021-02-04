@@ -34,7 +34,7 @@ ini semua gratis, jangan pelit ⭐️ ya :D
 
 This project require Termux.
 
-## BAHAN & ALAT <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="29px">
+## Materials & Tools <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="29px">
 Siapin alat dan bahan.
 ```bash
 > niat
@@ -46,11 +46,11 @@ Siapin alat dan bahan.
 > kopi+rokok ;v
 ```
 
-Download aplikasi termux disini :👇👇
+Download application termux now :👇👇
 
 [Download Termux](https://play.google.com/store/apps/details?id=com.termux) 
 
-Download WA MOD disini :👇👇
+Download WA MOD now :👇👇
 
 [wempy24 WHATSAPP MOD](https://mediafire.com/file/jafttiixkr9g2vl/Fouad.Whats8.70_By-FouadMODS.apk/file)
 
