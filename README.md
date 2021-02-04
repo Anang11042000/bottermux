@@ -69,8 +69,8 @@ Some features run using apikey, if apikey is not available then some features ca
 ## Installation  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
 This script is modified with my own WEM
 ```bash
-> kalo lu belum punya apk termux, download di playstore link nya ada diatas tadi
-> masuk ke apk termux lalu ketik dibawah ini!
+> If you don't have the Termux APK, download it from the Playstore link above
+> enter the termux apk then type below!
 > $ termux-setup-storage
 > $ pkg update -y
 > $ pkg upgrade -y
