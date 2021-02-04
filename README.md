@@ -26,3 +26,5 @@ BOT WHATSAPP TERMUX ONLY BY WEM
 </details>
 
 ini semua gratis, jangan pelit ⭐️ ya :D
+<p align="center"><a href="https://wa.me/6285746897368" target="_blank">Chat me on Whatsapp</a>.</p>
+</div>
