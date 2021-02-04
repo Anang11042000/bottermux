@@ -56,14 +56,14 @@ Download WA MOD now :👇👇
 
 ## GET APIKEY HERE
 
-Beberapa fitur berjalan menggunakan apikey, jika apikey tidak tersedia maka beberapa fitur tidak bisa di pakai.
+Some features run using apikey, if apikey is not available then some features cannot be used.
 
 * [Apibarbar](https://mhankbarbars.herokuapp.com/)
 * [Apivhtear](https://vhtear.com/)
 * [Apitobz](https://tobz-api.herokuapp.com/)
 * [Zeks](https://api.zeks.xyz/)
 
-**Masuk grup tes bot di atas untuk mendapatkan apikey gratis 👇👇**
+**Enter the bot group above to get a free api key👇👇**
 * [GROUP FREE APIKEY](https://chat.whatsapp.com/GeaXMbJWSOd3UsCUqFa4BT)
 
 ## Installation  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
