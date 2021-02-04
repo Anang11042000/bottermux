@@ -32,7 +32,7 @@ ini semua gratis, jangan pelit ⭐️ ya :D
 
 ## Getting Started
 
-This project require Termux v0.101.
+This project require Termux.
 
 ## Alat
 
