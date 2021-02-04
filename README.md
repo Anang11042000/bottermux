@@ -38,4 +38,4 @@ This project require Termux v0.101.
 
 Download aplikasi termux disini :
 
-[WEM Termux](https://play.google.com/store/apps/details?id=com.termux) 
+[Termux](https://play.google.com/store/apps/details?id=com.termux) 
