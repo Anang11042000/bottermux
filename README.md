@@ -83,7 +83,7 @@ This script is modified with my own WEM
 > $ python install.py
 > $ bash install.sh
 > $ node index.js
-> Tinggal scan kode qr nya tot...
+> Just scan the qr code yee ... done
 ```
 
 ## Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
