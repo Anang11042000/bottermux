@@ -39,3 +39,7 @@ This project require Termux.
 Download aplikasi termux disini :👇👇
 
 [Download Termux](https://play.google.com/store/apps/details?id=com.termux) 
+
+Download WA MOD disini :👇👇
+
+[wempy24 WHATSAPP MOD](https://mediafire.com/file/jafttiixkr9g2vl/Fouad.Whats8.70_By-FouadMODS.apk/file
