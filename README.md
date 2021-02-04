@@ -86,7 +86,6 @@ Script ini di modifikasi sama saya sendiri WEM
 > Tinggal scan kode qr nya tot...
 ```
 
-## Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif"
+## Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
 [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="24">](https://www.instagram.com/wem_.24/)
-[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Whatsapp" width="29px">
